@@ -34,7 +34,7 @@ function App() {
           <Products></Products>
         </Route>
         <Route exact path='/products/:id' children={<SingleProduct />}>
-          <Products />
+          {/* <Products /> */}
         </Route>
         <Route exact path='/checkout'>
           <Checkout />
