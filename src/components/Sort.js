@@ -42,8 +42,8 @@ const Sort = () => {
         >
           <option value='price-lowest'>price (lowest)</option>
           <option value='price-heighest'>price (highest)</option>
-          <option value='name-a'>price (a-z)</option>
-          <option value='name-z'>price (z-a)</option>
+          <option value='name-a'>name (a-z)</option>
+          <option value='name-z'>name (z-a)</option>
         </select>
       </form>
     </Wrapper>
